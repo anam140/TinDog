@@ -1,2 +1,2 @@
 # TinDog
-Web Bootcamp - Demo website for practice 
+Web BootCamp - Demo Website for Practice  
