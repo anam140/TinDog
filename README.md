@@ -1,2 +1,2 @@
 # TinDog
-Web BootCamp - Demo Website for Practice  
+Web Design Task
